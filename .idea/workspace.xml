@@ -70,11 +70,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="html" value="10" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="10" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
@@ -85,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML-CSS-study/Web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="79" column="41" lean-forward="true" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+            <state relative-caret-position="635">
+              <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -119,6 +121,7 @@
       <list>
         <option value="$PROJECT_DIR$/GitStudy/GitPrac/HTML-CSS-study/Web/index.html" />
         <option value="$PROJECT_DIR$/GitStudy/GitPrac/HTML-CSS-study/Web/style.css" />
+        <option value="$PROJECT_DIR$/HTML-CSS-study/Web/index.html" />
       </list>
     </option>
   </component>
@@ -153,24 +156,7 @@
             <path>
               <item name="Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="GitStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="GitStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="GitPrac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
               <item name="HTML-CSS-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-CSS-study" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Study" type="b2602c69:ProjectViewProjectNode" />
@@ -227,7 +213,7 @@
       <workItem from="1536480496748" duration="6264000" />
       <workItem from="1536524197761" duration="37000" />
       <workItem from="1536539145519" duration="24000" />
-      <workItem from="1538091970914" duration="245000" />
+      <workItem from="1538091970914" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="Study&#10;until HTML-CSS chap3">
       <created>1538092065370</created>
@@ -240,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39380000" />
+    <option name="totallyTimeSpent" value="39945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,12 +246,12 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.132506" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.132506" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32833335" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32833335" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -331,8 +317,8 @@
     <entry file="file://$PROJECT_DIR$/GitStudy/GitPrac/HTML-CSS-study/Web/style.css" />
     <entry file="file://$PROJECT_DIR$/HTML-CSS-study/Web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="79" column="41" lean-forward="true" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        <state relative-caret-position="635">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
         </state>
       </provider>
     </entry>
