@@ -686,6 +686,13 @@ header {
   border-bottom: solid 1px var(--gray-color);
 }
 
+.history th {
+  padding-right: 1rem;
+  text-align: left;
+  white-space: nowrap;
+  word-break: keep-all;
+}
+
 @media (min-width: 768px) {
   .history .container {
     display: flex;
